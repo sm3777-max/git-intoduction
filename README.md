@@ -5,3 +5,4 @@ command3- ls -la
 command4- cd <dir>
 command5- history
 command6- cat <file>
+command7- nano <file>
