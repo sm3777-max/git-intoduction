@@ -13,3 +13,4 @@ command11- git diff
 command12- git branch
 command13- git pull
 command14- git push
+command15- git add .
